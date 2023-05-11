@@ -615,7 +615,7 @@ img {
 .footer__copy {
     padding-top: 3rem;
     font-size: var(--smaller-font-size);
-    color: var(--dark-color-light);
+    color: var(--dark-color-lighten);
     text-align: center;
 }
 
@@ -656,9 +656,9 @@ img {
     .home__img{
         width: 100px;
     }
-    .footer__copy{
+    /* .footer__copy{
         max-width: 100px;
-    }
+    } */
 }
 @media screen and (min-width: 768px) {
     body {
